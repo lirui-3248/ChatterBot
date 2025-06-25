@@ -1,15 +1,4 @@
-![ChatterBot: Machine learning in Python](https://i.imgur.com/b3SCmGT.png)
-
-# ChatterBot
-
-ChatterBot is a machine-learning based conversational dialog engine built in
-Python which makes it possible to generate responses based on collections of
-known conversations. The language independent design of ChatterBot allows it
-to be trained to speak any language.
-
-[![Package Version](https://img.shields.io/pypi/v/chatterbot.svg)](https://pypi.python.org/pypi/chatterbot/)
-[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-360/)
-[![Coverage Status](https://img.shields.io/coveralls/gunthercox/ChatterBot.svg)](https://coveralls.io/r/gunthercox/ChatterBot)
+、、
 [![Follow on Bluesky](https://img.shields.io/badge/🦋%20Bluesky-1185fe)](https://bsky.app/profile/chatterbot.us)
 [![Join the chat at https://gitter.im/chatterbot/Lobby](https://badges.gitter.im/chatterbot/Lobby.svg)](https://gitter.im/chatterbot/Lobby?utm_source=badge&utm_medium=badge&utm_content=badge)
 <!-- [![Code Climate](https://codeclimate.com/github/gunthercox/ChatterBot/badges/gpa.svg)](https://codeclimate.com/github/gunthercox/ChatterBot) -->
